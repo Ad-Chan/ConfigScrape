@@ -36,27 +36,24 @@ class Player:
         return False
 
     def printConfig(self):
-        output = ""
+        output = "["
         output += self.team
-        output += " "
+        output += "] ["
         output += self.name
-        output += " "
+        output += "] ["
         output += self.role
-        output += " "
+        output += "] "
         for i in self.config:
+            output += "["
             output += i
-            output += " "
+            output += "] "
         print(output)
     
     def setInfo(self):
+        #print(self.config)
         self.team = self.config[0]
-        if self.config[1] == "(B)":
-            self.name = self.config[2]
-            self.role = self.config[3]
-            self.config.remove("(B)")
-        else:
-            self.name = self.config[1]
-            self.role = self.config[2]
+        self.name = self.config[1]
+        self.role = self.config[2]
         self.config.remove(self.team)
         self.config.remove(self.name)
         self.config.remove(self.role)
@@ -65,12 +62,19 @@ class Player:
     def returnConfig(self):
         output = ""
         output += self.team
-        output += " "
+        output += "|"
         output += self.name
-        output += " "
+        output += "|"
         output += self.role
-        output += " "
+        output += "|"
         for i in self.config:
             output += i
-            output += " "
+            output += "|"
         return output
+
+    def checkPlayer(self):
+        #print(self.config)
+        if len(self.config) <= 0:
+            return False
+        else:
+            return True

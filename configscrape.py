@@ -6,6 +6,7 @@ import shutil
 from player import Player
 import os.path
 from os import path
+from selenium.webdriver.common.by import By
 
 largelist = []
 players = []
@@ -32,29 +33,61 @@ while mode != "exit":
         file1 = open("proconfig.txt", "w")
         options = Options()
         options.headless = True
-        browser = webdriver.Firefox(options=options)
+        browser = webdriver.Firefox(options = options)
         browser.get("https://prosettings.net/cs-go-pro-settings-gear-list/")
         print("Opening headless browser...")
-        browser.refresh()
+        #browser.refresh()
         nav = browser.find_element_by_tag_name("tbody")
 
-        tempString = ""
-        print("Processing data...")
-        for line in nav.text:
-            if line != '\n':
-                tempString += line
-            else:
-                largelist.append(tempString) 
-                #print(tempString)           
-                tempString = ""
-        for text in largelist:
-            temptext = text.split()
+        table_id = browser.find_element(By.ID,"table_1")
+        rows = table_id.find_elements(By.TAG_NAME, "tr")
+        tbody = table_id.find_element_by_tag_name("tbody")
+        fullText = []
+        for row in rows:
+            #newPlayer = Player()
+            newLine = []
+            cols = row.find_elements(By.TAG_NAME, "td")
+            for col in cols:
+                newLine.append(col.text)
+                #newPlayer.addToConfig(col.text)
+            #if newPlayer.checkPlayer == True:
+            #players.append(newPlayer)
+            if len(newLine) != 0:                
+                fullText.append(newLine)
+        
+        for i in fullText:
+            for j in i:
+                if j == "":
+                    i.remove(j)
+
+        #fullText.pop(0)
+        fullText.pop(-1)
+
+        for i in fullText:
             newPlayer = Player()
-            for i in temptext:
-                newPlayer.addToConfig(i)
+            for j in i:
+                newPlayer.addToConfig(j)
             newPlayer.setInfo()
             newPlayer.removeFromConfig("Config")
             players.append(newPlayer)
+
+        #tempString = ""
+        #print("Processing data...")
+        #for line in nav.text:
+        #    if line != '\n':
+        #        tempString += line
+        #    else:
+        #        largelist.append(tempString) 
+                #print(tempString)           
+        #        tempString = ""
+        #for text in largelist:
+        #    temptext = text.split()
+        #    newPlayer = Player()
+        #    for i in temptext:
+        #        newPlayer.addToConfig(i)
+        #    newPlayer.setInfo()
+        #    newPlayer.removeFromConfig("Config")
+        #    players.append(newPlayer)
 
         print("Printing configs")
         for player in players:
@@ -70,7 +103,7 @@ while mode != "exit":
             largelist.append(line)
         
         for text in largelist:
-            temptext = text.split()
+            temptext = text.split("|")
             newPlayer = Player()
             for i in temptext:
                 newPlayer.addToConfig(i)
@@ -79,71 +112,27 @@ while mode != "exit":
             players.append(newPlayer)
         file2.close()
 
-        searchPlayer = input("[G] for general search\n[T] for team search\n[N] for name search\n[R] for role search\n[B] to go back\n")
+        searchPlayer = input("Type search terms\n[B] to go back\n")
         searchPlayer = searchPlayer.split()
         first = False
         while searchPlayer[0] != "B":
             if first == True:        
-                searchPlayer = input("[G] for general search\n[T] for team search\n[N] for name search\n[R] for role search\n[B] to go back\n")
+                searchPlayer = input("Type search terms\n[B] to go back\n")
                 searchPlayer = searchPlayer.split()
             printList = []
-            if searchPlayer[0] == 'G':
-                searchTerm = input("Type a search term(s):\n")
-                searchTerm = searchTerm.split()
-                for player in players:
-                    if player.findSimilar(searchTerm) == True:
-                        printList.append(player)
-                if len(printList) > 0:
-                    print("Found player(s)")
-                    for player in printList:
-                        player.printConfig()
-                        print("\n")
-                if len(printList) <= 0:
-                    print("Players not found")
-            elif searchPlayer[0] == 'T':
-                team = input("Type the name of the team(s):\n")
-                team = team.split()
-                for player in players:
-                    for singleTeam in team:
-                        if  singleTeam.lower() in player.getTeam().lower():
-                            printList.append(player)
-                if len(printList) > 0:
-                    print("Found player(s)")
-                    for player in printList:
-                        player.printConfig()
-                        print("\n")
-                if len(printList) <= 0:
-                    print("Players not found")
 
-            elif searchPlayer[0] == 'N':
-                name = input("Type the name of the player(s):\n")
-                name = name.split()
-                for player in players:
-                    for singleName in name:
-                        if singleName.lower() in player.getName().lower():
-                            printList.append(player)
-                if len(printList) > 0:
-                    print("Found player(s)")
-                    for player in printList:
-                        player.printConfig()
-                        print("\n")
-                if len(printList) <= 0:
-                    print("Players not found")  
-                  
-            elif searchPlayer[0] == 'R':
-                role = input("Type the name of the role(s) (AWPer/rifler):\n")
-                role = role.split()
-                for player in players:
-                    for singleRole in role:
-                        if singleRole.lower() in player.getRole().lower():
-                            printList.append(player)
-                if len(printList) > 0:
-                    print("Found player(s)")
-                    for player in printList:
-                        player.printConfig()
-                        print("\n")
-                if len(printList) <= 0:
-                    print("Players not found")   
+            #searchTerm = input("Type a search term(s):\n")
+            #searchTerm = searchTerm.split()
+            for player in players:
+                if player.findSimilar(searchPlayer) == True:
+                    printList.append(player)
+            if len(printList) > 0:
+                print("Found " + str(len(printList)) + " player(s)")
+                for player in printList:
+                    player.printConfig()
+                    #print("\n")
+            if len(printList) <= 0:
+                print("Players not found") 
             first = True     
     firstmain = True
 

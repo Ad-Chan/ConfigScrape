@@ -1,99 +1,100 @@
-Liquid Stewie2k Rifler Zowie ZA12 1,000 400 1.70 680 1.30 0 6 1 BenQ XL2546 240 GTX 1080 Ti 1280x960 4:3 stretched SteelSeries QcK Edge Logitech G813 HyperX Cloud II 
-Liquid EliGE Rifler Logitech G Pro Wireless 1,000 1,600 0.74 1,184 0.80 0 6 1 Alienware AW2518H 240 GTX 1080 Ti 1680x1050 16:10 stretched Zowie G-SR HyperX Alloy FPS Pro Sennheiser PC37X 
-Liquid nitr0 AWPer Zowie EC2 500 400 2.00 800 1.04 1 6 1 Alienware AW2518H 240 GTX 1080 Ti 1024x768 4:3 stretched Zowie G-SR MK Disco TKL Alienware AW988 
-Liquid NAF Rifler Zowie EC2-A White Edition 1,000 800 0.60 480 0.86 0 6 1 Alienware AW2518H 240 GTX 1080 Ti 1280x960 4:3 stretched SteelSeries QcK Heavy Razer BlackWidow X Chroma ME Alienware AW988 
-Liquid Twistzz Rifler Zowie EC2-B 1,000 400 1.50 600 1.20 0 6 1 BenQ XL2546 240 GTX 1080 Ti 1280x960 4:3 stretched Zowie G-SR Zowie Celeritas II Sennheiser GSP 600 
-Astralis Magisk Rifler Zowie EC2 1,000 800 1.00 800 1.18 0 6 1 OMEN X 27 240 GTX 1080 1024x768 4:3 black bars Logitech G640 Logitech G Pro Mechanical Keyboard Turtle Beach Elite Pro 
-Astralis Xyp9x Rifler Zowie FK2 500 1,600 0.50 800 1.00 0 6 1 OMEN X 27 240 GTX 1080 1680x1050 16:10 black bars Zowie G-SR Blue Edition Logitech G Pro Mechanical Keyboard Turtle Beach Elite Pro 
-Astralis dev1ce / device AWPer Zowie EC2-B Divina Edition 1,000 400 2.00 800 1.10 0 6 1 OMEN X 27 240 GTX 1080 1280x960 4:3 stretched Logitech G640 Logitech G Pro X Mechanical Keyboard Turtle Beach Elite Pro 
-Astralis dupreeh Rifler Zowie FK2 1,000 400 1.80 720 1.00 0 6 1 OMEN X 27 240 GTX 1080 1280x960 4:3 stretched Zowie G-SR-SE Red Edition Logitech G513 Turtle Beach Elite Pro 
-Astralis gla1ve Rifler Zowie EC1-A 1,000 400 2.10 840 1.00 0 6 1 OMEN X 27 240 GTX 1080 1280x960 4:3 stretched Logitech G640 Logitech G Pro Mechanical Keyboard Turtle Beach Elite Pro 
-ENCE allu AWPer Logitech G Pro Wireless 1,000 400 2.20 880 1.00 0 6 1 AOC AG251FZ 240 GTX 1080 Ti 1280x960 4:3 black bars ASUS ENCE Edition Logitech G Pro Mechanical Keyboard ASUS ROG Delta 
-ENCE suNny Rifler Zowie S2 Divina Edition 1,000 400 2.20 880 0.80 0 6 1 BenQ XL2546 240 GTX 1080 Ti 1024x768 4:3 black bars Logitech G640 Logitech G Pro Mechanical Keyboard Razer Kraken Pro V2 
-ENCE sergej Rifler Logitech G Pro Wireless 1,000 400 1.90 760 1.00 0 6 1 AOC AG251FZ 240 GTX 1080 Ti 1440x1080 4:3 stretched Logitech G640 ESL Edition Logitech G Pro Mechanical Keyboard Logitech G Pro X 
-ENCE Aerial Rifler Zowie EC2-A 1,000 400 2.20 880 1.00 0 6 1 AOC AG251FZ 240 GTX 1080 Ti 1024x768 4:3 black bars ASUS ENCE Edition Logitech G513 SteelSeries Arctis 7 2019 Edition 
-ENCE (B) Aleksib Rifler Logitech G Pro Wireless 1,000 800 0.95 760 0.95 0 6 1 AOC AG251FZ 240 GTX 1080 Ti 1440x1080 4:3 stretched Logitech G640 ESL Edition Logitech G513 Logitech G Pro X 
-ENCE xseveN Rifler Endgame Gear XM1 1,000 400 2.15 860 1.00 0 6 1 AOC AG251FZ 240 GTX 1080 Ti 1024x768 4:3 black bars ASUS ENCE Edition Logitech G513 HyperX Cloud II 
-Vitality (B) NBK Rifler Zowie S2 Divina Edition 1,000 800 1.10 880 1.05 0 6 1 AOC AG251FZ 240 GTX 1080 Ti 1280x800 16:10 stretched 2x Logitech G640 Razer BlackWidow Chroma TE V2 Logitech G Pro X 
-Vitality apEX Rifler Logitech G402 1,000 400 1.91 764 1.00 0 6 1 AOC AG251FZ 240 GTX 1080 Ti 1024x768 4:3 stretched Logitech G640 Razer BlackWidow Chroma TE V2 HyperX Cloud II 
-Vitality shox Rifler Zowie FK1 1,000 400 2.25 900 1.00 0 6 1 AOC AG251FZ 240 GTX 1080 Ti 1024x768 4:3 black bars SteelSeries QcK Heavy SteelSeries APEX M750 TKL Logitech G Pro X 
-Vitality RpK Rifler Zowie S2 Divina Edition 500 400 1.85 740 1.00 0 6 1 BenQ XL2411Z 144 GTX 1080 Ti 1280x1024 5:4 stretched Razer Gigantus Razer Huntsman Elite Razer Kraken TE 
-Vitality ALEX Rifler Zowie EC1-A 1,000 400 2.00 800 1.05 0 6 1 BenQ XL2546 240 GTX 1070 Ti 1280x960 4:3 stretched Zowie G-SR Razer BlackWidow Elite HyperX Cloud II 
-Vitality ZywOo AWPer Zowie S2 Divina Edition 1,000 400 2.00 800 1.00 0 6 1 BenQ XL2546 240 GTX 1080 Ti 1280x960 4:3 stretched Razer Goliathus Speed Cosmic Xtrfy K2-RGB HyperX Cloud II 
-FURIA HEN1 AWPer SteelSeries Rival 300 1,000 400 3.50 1,400 1.00 1 4 1 BenQ XL2546 240 GTX 1080 1280x960 4:3 black bars SteelSeries QcK Heavy Razer BlackWidow Chroma HyperX Cloud II 
-FURIA kscerato Rifler Zowie EC2-A 1,000 400 3.50 1,400 1.10 0 6 1 BenQ XL2546 240 GTX 1070 Ti 1024x768 4:3 stretched Zowie G-SR-SE Brasil Edition HyperX Alloy FPS RGB HyperX Cloud Alpha Purple 
-FURIA arT AWPer Zowie FK2 1,000 800 1.44 1,152 1.10 0 6 1 BenQ XL2546 240 GTX 1070 1280x960 4:3 stretched HyperX FURY S Pro HyperX Alloy FPS HyperX Cloud Revolver 
-FURIA yuurih Rifler Zowie EC1-B Divina Edition 1,000 400 2.20 880 1.00 0 6 1 BenQ XL2546 240 GTX 1070 Ti 1280x800 16:10 black bars HyperX FURY S Pro HyperX Alloy FPS HyperX Cloud II 
-FURIA VINI Rifler Logitech G Pro Wireless 1,000 1,600 1.00 1,600 1.00 0 6 1 BenQ XL2546 240 GTX 1070 Ti 1920x1080 16:9 Gigabyte Aorus AMP500 SteelSeries APEX M750 TKL HyperX Cloud Flight 
-FaZe Clan olofmeister AWPer SteelSeries Rival 300 1,000 400 1.70 680 1.20 0 6 1 BenQ XL2540 240 GTX 1080 Ti 1024x768 4:3 black bars SteelSeries QcK Heavy SteelSeries APEX M750 SteelSeries Arctis Pro White 
-FaZe Clan rain Rifler Dream Machines DM2 Comfy 1,000 450 1.78 801 1.00 0 6 1 BenQ XL2540 240 GTX 1080 Ti 1280x800 16:10 stretched SteelSeries QcK Heavy SteelSeries Apex M500 SteelSeries Arctis Pro White 
-FaZe Clan coldzera Rifler Zowie ZA12 White Edition 500 800 1.10 880 1.00 0 6 0 BenQ XL2546 240 GTX 1080 Ti 1280x960 4:3 stretched Zowie G-SR DG Razer BlackWidow X Chroma ME Razer Kraken 7.1 V2 MW Edition 
-FaZe Clan NiKo Rifler Zowie S2 Divina Edition 1,000 400 1.45 580 0.80 0 6 1 BenQ XL2540 240 GTX 1080 Ti 1024x768 4:3 stretched SteelSeries QcK Heavy Zowie Celeritas II SteelSeries Arctis Pro White 
-FaZe Clan broky Rifler Zowie S2 1,000 400 2.00 800 1.00 0 6 1 BenQ XL2540 240 GTX 1080 Ti 1280x960 4:3 stretched Razer Goliathus Speed Cosmic Logitech G Pro Mechanical Keyboard SteelSeries Arctis Pro White 
-Fnatic JW AWPer Zowie EC2 1,000 400 2.20 880 0.90 0 6 1 BenQ XL2540 240 RX Vega 64 1024x768 4:3 black bars Fnatic Gear Focus Pro Fnatic Gear MiniStreak HyperX Cloud II 
-Fnatic flusha Rifler Logitech G703 White Edition 1,000 400 1.70 680 0.87 0 6 1 BenQ XL2540 240 GTX 1080 Ti 1280x960 4:3 stretched Fnatic Gear FOCUS 2 Fnatic Gear Streak HyperX Cloud Alpha C9 Edition 
-Fnatic KRiMZ Rifler Zowie EC2 1,000 400 1.40 560 1.00 0 6 1 BenQ XL2540 240 RX Vega 64 1920x1080 16:9 Fnatic Gear FOCUS 2 Fnatic Gear Streak HyperX Cloud II 
-Fnatic (B) Xizt Rifler Zowie EC2-B Divina Edition 1,000 400 3.00 1,200 1.00 0 6 0 BenQ XL2540 240 RX Vega 64 1024x768 4:3 black bars Fnatic Gear FOCUS 2 Fnatic Gear MiniStreak HyperX Cloud II 
-Fnatic Golden Rifler Zowie EC2-A 1,000 400 2.00 800 1.00 0 6 1 BenQ XL2540 240 GTX 1080 Ti 1024x768 4:3 black bars Fnatic Gear FOCUS 2 HyperX Alloy FPS HyperX Cloud II 
-Fnatic Brollan Rifler Zowie EC2-A White Edition 1,000 800 1.30 1,040 1.00 0 6 1 BenQ XL2540 240 RX Vega 64 1280x1024 5:4 stretched Fnatic Gear Focus Pro Fnatic Gear Streak HyperX Cloud II 
-MIBR FalleN AWPer Zowie EC1-A 1,000 400 1.80 720 1.40 0 6 1 BenQ XL2546 240 GTX 1080 Ti 1024x768 4:3 stretched GFallen Pantera Extended Razer BlackWidow X Chroma ME Razer Kraken 7.1 V2 MW Edition 
-MIBR fer Rifler SteelSeries Rival 300 White Edition 1,000 400 2.50 1,000 1.00 0 6 0 BenQ XL2546 240 GTX 1080 Ti 1152x864 4:3 stretched Razer Gigantus MIBR Edition Razer BlackWidow X Chroma ME Razer Kraken 7.1 V2 
-MIBR TACO Rifler Razer Viper Wireless 1,000 400 1.30 520 1.00 1 6 1 BenQ XL2546 240 GTX 1080 Ti 1152x864 4:3 stretched Razer Gigantus MIBR Edition Razer BlackWidow Chroma TE V2 Razer Kraken TE 
-MIBR LUCAS1 Rifler Logitech G Pro Wireless 1,000 400 2.50 1,000 1.00 0 6 1 BenQ XL2546 240 GTX 1080 1680x1050 16:10 black bars Razer Gigantus Razer BlackWidow X Chroma ME Razer Kraken 7.1 V2 MW Edition 
-MIBR kNg AWPer Logitech G Pro Wireless 1,000 400 2.50 1,000 0.90 0 6 1 BenQ XL2540 240 GTX 1080 Ti 1280x960 4:3 black bars SteelSeries QcK Heavy Razer BlackWidow X Chroma ME Sennheiser GSP 600 
-NaVi electronic Rifler Logitech G Pro Wireless 1,000 400 2.20 880 1.00 0 6 1 BenQ XL2540 240 GTX 1080 1024x768 4:3 black bars HyperX FURY S Speed Edition HyperX Alloy FPS RGB HyperX Cloud II 
-NaVi s1mple AWPer Logitech G Pro Wireless 1,000 400 3.09 1,236 1.00 0 6 1 BenQ XL2540 240 GTX 1080 1280x960 4:3 stretched Zowie G-SR HyperX Alloy FPS RGB HyperX Cloud Alpha S 
-NaVi flamie Rifler Zowie EC2-A Red Edition 1,000 400 1.80 720 1.00 0 6 1 BenQ XL2540 240 GTX 1080 1024x768 4:3 black bars Zowie G-SR HyperX Alloy FPS RGB HyperX Cloud Alpha GE 
-NaVi GuardiaN AWPer SteelSeries Kinzu V2 500 400 1.30 520 1.20 0 6 1 BenQ XL2540 240 GTX 1080 Ti 800x600 4:3 black bars SteelSeries QcK+ HyperX Alloy FPS RGB SteelSeries Arctis Pro White 
-NaVi (B) Edward Rifler Zowie EC2-A 500 400 1.90 760 1.00 0 6 1 BenQ XL2540 240 GTX 1080 1280x960 4:3 stretched SteelSeries QcK Heavy HyperX Alloy FPS HyperX Cloud Flight 
-NaVi Boombl4 Rifler Zowie EC1 1,000 400 1.42 568 1.00 0 6 1 BenQ XL2546 240 GTX 1080 Ti 1024x768 4:3 stretched Zowie G-SR-SE Divina Blue Edition HyperX Alloy Elite HyperX Cloud II 
-EG tarik Rifler Logitech MX518 Legendary 1,000 800 1.10 880 1.00 0 6 1 BenQ XL2546 Divina Blue Edition 240 RTX 2080 Ti 1024x768 4:3 stretched Logitech G640 HyperX Alloy FPS Pro Sennheiser GAME ZERO 
-EG stanislaw Rifler Logitech G403 Wireless 1,000 400 2.50 1,000 1.00 0 6 1 BenQ XL2546 240 GTX 1080 Ti 1024x768 4:3 stretched SteelSeries QcK Heavy HyperX Alloy FPS Sennheiser GAME ZERO 
-EG Brehze Rifler Logitech MX518 Legendary 1,000 400 2.30 920 1.00 0 6 1 ASUS ROG Swift PG258Q 240 GTX 1080 1024x768 4:3 stretched Logitech G640 Razer BlackWidow Chroma TE V2 Sennheiser GAME ZERO 
-EG Ethan Rifler Logitech G Pro Wireless 1,000 400 1.80 720 0.77 0 6 1 BenQ XL2540 144 GTX 1080 1024x768 4:3 black bars Xtrfy XG-GP1-L Corsair K65 RGB Sennheiser GAME ZERO 
-EG CeRq AWPer Zowie EC2 1,000 400 2.20 880 0.70 0 6 1 BenQ XL2540 240 GTX 1080 1024x768 4:3 black bars Zowie G-SR Razer BlackWidow X Chroma ME Sennheiser GAME ZERO 
-NiP Lekr0 Rifler QPAD DX-20 1,000 800 1.00 800 1.00 0 6 1 ASUS ROG Swift PG258Q 240 RTX 2080 Ti 1440x1080 4:3 stretched Xtrfy GP2 Xtrfy K2-RGB Xtrfy H1 
-NiP twist AWPer Zowie FK1 1,000 400 2.00 800 1.00 0 6 1 BenQ XL2546 240 RTX 2080 Ti 1024x768 4:3 black bars SteelSeries QcK Heavy Razer BlackWidow Chroma TE V2 HyperX Cloud II 
-NiP f0rest Rifler Zowie EC2-A 500 400 3.20 1,280 1.00 0 6 1 ASUS ROG Swift PG258Q 240 RTX 2080 Ti 1024x768 4:3 stretched Xtrfy XTP1 f0rest Edition Xtrfy K2-RGB Xtrfy H1 
-NiP REZ Rifler Logitech G Pro Wireless 1,000 400 2.30 920 0.80 0 6 1 ASUS ROG Swift PG258Q 240 RTX 2080 Ti 1280x960 4:3 stretched Zowie G-SR Xtrfy K2-RGB Xtrfy H1 
-NiP Plopski Rifler Zowie EC2-A 500 800 1.50 1,200 1.00 0 6 1 ASUS ROG Swift PG258Q 240 RTX 2080 Ti 1920x1080 16:9 Xtrfy XTP1 NiP Lightning Edition Xtrfy K2-RGB Xtrfy H1 
-North aizy AWPer Zowie S2 Divina Edition 1,000 400 2.20 880 1.00 0 6 1 BenQ XL2546 240 GTX 1080 Ti 1024x768 4:3 stretched Zowie G-SR HyperX Alloy FPS Sennheiser GSP 600 
-North Kjaerbye Rifler Logitech G Pro Wireless 1,000 400 1.80 720 0.80 0 6 1 BenQ XL2546 240 GTX 1080 Ti 1440x900 16:10 black bars Zowie G-SR SteelSeries Apex M500 Sennheiser GSP 600 
-North JUGi AWPer Zowie EC2-A 1,000 800 0.80 640 1.00 0 5 1 BenQ XL2546 240 GTX 1080 1024x768 4:3 black bars Zowie G-SR SteelSeries Apex M500 Sennheiser GSP 600 
-North valde Rifler Zowie EC2-B Divina Edition 1,000 400 1.65 660 1.00 0 6 1 BenQ XL2546 240 GTX 1080 Ti 1280x960 4:3 stretched Zowie G-SR-SE Red Edition Xtrfy K2-RGB White Edition Sennheiser GSP 600 
-North gade Rifler Zowie EC1-B 1,000 400 2.20 880 1.00 0 6 1 BenQ XL2546 240 GTX 1080 Ti 1280x960 4:3 stretched Zowie G-SR Zowie Celeritas II Sennheiser GSP 600 
-G2 kennyS AWPer Logitech MX518 Legendary 500 400 2.20 880 1.00 0 6 1 AOC AG251FZ 240 GTX 1080 Ti 1024x768 4:3 black bars Flicks kennyS Logitech G512 Logitech G Pro X 
-G2 nexa Rifler Logitech G703 1,000 800 1.22 976 1.00 0 6 1 BenQ XL2546 240 GTX 1070 1280x960 4:3 stretched Logitech G640 Xtrfy K2-RGB White Edition HyperX Cloud I 
-G2 AmaNEk Rifler Logitech G Pro Wireless 1,000 800 2.20 1,760 1.00 0 6 1 BenQ XL2546 240 GTX 1070 Ti 1440x1080 4:3 stretched Logitech G640 Logitech G413 Logitech G Pro X 
-G2 JACKZ Rifler Logitech MX518 Legendary 1,000 400 1.66 664 1.00 0 6 1 BenQ XL2546 240 GTX 1080 Ti 1024x768 4:3 stretched Zowie G-SR Logitech G513 Logitech G Pro X 
-G2 huNter Rifler Zowie EC2-B Divina Edition 1,000 400 2.00 800 1.00 0 6 1 BenQ XL2546 240 GTX 1080 1024x768 4:3 stretched Zowie G-SR-SE Divina Pink Edition Xtrfy K2-RGB White Edition HyperX Cloud Revolver S 
-Mouz karrigan Rifler Logitech G703 1,000 400 1.40 560 1.00 1 4 1 BenQ XL2540 240 GTX 1080 Ti 1600x1024 16:10 stretched Razer Gigantus Team Razer Edition Razer BlackWidow Chroma TE V2 Razer Kraken Pro V2 
-Mouz chrisJ Rifler Dream Machines DM2 Comfy 1,000 800 1.19 952 1.00 0 6 1 BenQ XL2546 240 GTX 1080 Ti 1280x1024 5:4 stretched Razer Gigantus Team Razer Edition Razer BlackWidow X Chroma ME Razer Kraken Pro V2 
-Mouz ropz Rifler Zowie EC2-A 1,000 400 1.77 708 1.00 0 6 1 BenQ XL2546 240 RTX 2080 1920x1080 16:9 Razer Gigantus Team Razer Edition Razer BlackWidow X Chroma Razer Kraken Pro V2 
-Mouz woxic AWPer SteelSeries Sensei Raw 1,000 1,620 1.50 2,430 1.00 0 6 1 BenQ XL2540 240 GTX 1080 Ti 1280x960 4:3 stretched Razer Gigantus Team Razer Edition Razer BlackWidow Chroma TE V2 Razer Kraken TE 
-Mouz Frozen Rifler Razer DeathAdder Elite 1,000 400 2.00 800 0.90 0 6 1 BenQ XL2546 240 RTX 2080 Ti 1024x768 4:3 black bars Razer Gigantus Razer BlackWidow Chroma TE V2 Razer Kraken Pro V2 
-RNG AZR Rifler Logitech G Pro Wireless 1,000 400 2.40 960 1.00 0 5 1 BenQ XL2546 240 GTX 1080 Ti 1024x768 4:3 black bars SteelSeries QcK Heavy HyperX Alloy FPS HyperX Cloud II 
-RNG jks Rifler Zowie EC1-A 1,000 400 1.70 680 1.00 0 6 1 Alienware AW2518H 240 GTX 1080 Ti 1024x768 4:3 Black bars Zowie G-SR HyperX Alloy FPS HyperX Cloud II 
-RNG jkaem Rifler Zowie EC2-A 1,000 400 1.60 640 1.00 0 5 1 BenQ XL2546 240 GTX 1080 Ti 1024x768 4:3 stretched SteelSeries QcK Heavy HyperX Alloy FPS HyperX Cloud II 
-RNG Liazz Rifler Zowie EC2-B 500 800 1.04 832 1.00 0 6 1 BenQ XL2546 240 GTX 1080 Ti 1280x960 4:3 stretched Zowie G-SR HyperX Alloy FPS Pro HyperX Cloud II 
-RNG Gratisfaction AWPer Zowie EC2-B Divina Edition 1,000 800 1.19 952 1.00 0 6 1 BenQ XL2546 240 GTX 1080 Ti 1920x1080 16:9 Razer Goliathus Control HyperX Alloy FPS HyperX Cloud II 
-Avangar AdreN Rifler Zowie ZA13 1,000 400 1.55 620 0.85 0 6 1 BenQ XL2540 240 GTX 1080 Ti 1024x768 4:3 stretched SteelSeries QcK Heavy Xtrfy K2-RGB SteelSeries Arctis 7 2019 Edition 
-Avangar Buster Rifler Zowie ZA12 1,000 400 2.20 880 1.00 0 6 1 BenQ XL2540 240 GTX 1080 Ti 1280x960 4:3 stretched Zowie G-SR Razer BlackWidow X Chroma ME HyperX Cloud Revolver S 
-Avangar Jame AWPer Zowie EC2-A 500 1,600 0.63 1,008 1.00 0 6 1 BenQ XL2540 240 GTX 960 1024x768 4:3 black bars Zowie G-SR Razer BlackWidow X Chroma ME HyperX Cloud II 
-Avangar qikert Rifler Zowie EC2-A 1,000 400 2.00 800 1.00 0 6 1 BenQ XL2540 240 GTX 1080 1280x960 4:3 stretched Zowie G-SR SteelSeries Apex M500 HyperX Cloud Alpha 
-Avangar SANJI Rifler Logitech G Pro Wireless 1,000 400 1.22 488 1.00 0 6 1 BenQ XL2540 240 GTX 1080 1280x768 16:10 black bars SteelSeries QcK Heavy HyperX Alloy FPS HyperX Cloud II 
-CR4ZY EspiranTo Rifler Logitech G403 HERO 1,000 400 2.60 1,040 1.15 0 6 1 BenQ XL2540 240 GTX 1060 1024x768 4:3 stretched Logitech G640 Zowie Celeritas II Xtrfy H1 
-CR4ZY ottoNd AWPer Zowie EC2-A 500 400 1.77 708 1.00 0 6 1 BenQ XL2540 240 GTX 1070 1152x864 4:3 stretched Zowie G-SR-SE Divina Blue Edition Logitech G513 Sennheiser PC350 
-CR4ZY LETN1 Rifler Zowie EC2-B 500 400 1.65 660 1.00 0 6 1 BenQ XL2540 240 GTX 970 1024x768 4:3 stretched Zowie G-SR-SE Divina Blue Edition Xtrfy K2-RGB HyperX Cloud II 
-CR4ZY SHiPZ Rifler Zowie EC2-B Divina Edition 1,000 400 2.40 960 1.00 0 6 0 BenQ XL2546 240 GTX 1080 1024x768 4:3 stretched Zowie G-SR DG HyperX Alloy FPS Pro Sennheiser GAME ZERO 
-Grayhound DickStacy Rifler XTRFY M2 1,000 800 1.50 1,200 1.00 0 6 1 BenQ XL2540 240 GTX 1080 1280x960 4:3 stretched Zowie G-SR Xtrfy K2-RGB HyperX Cloud II 
-Grayhound dexter Rifler Zowie ZA12 1,000 1,600 0.65 1,040 1.00 0 6 1 ASUS ROG Swift XG258Q 240 GTX 1070 1280x960 4:3 stretched Xtrfy GP2 Xtrfy K2-RGB HyperX Cloud Alpha 
-Grayhound malta Rifler Zowie EC2-B Divina Edition 1,000 400 2.00 800 1.00 0 5 1 BenQ XL2540 240 GTX 1080 1440x1080 4:3 stretched Zowie G-SR Xtrfy K2-RGB HyperX Cloud II 
-Grayhound Sico AWPer Zowie EC2-B 1,000 0 0.00 0 1.00 0 6 1 BenQ XL2540 240 GTX 1080 1024x768 4:3 black bars Xtrfy GP1 Grayhound Edition Xtrfy K2-RGB Xtrfy H1 
-Grayhound INS Rifler Logitech G403 1,000 800 1.20 960 1.00 0 6 1 BenQ XL2546 240 1280x960 4:3 stretched Logitech G240 Logitech RGB G810 Logitech G430 
-Windigo bubble AWPer Zowie EC2-A White Edition 1,000 400 1.75 700 1.00 0 6 1 BenQ XL2430T 144 GTX 960 1920x1080 16:9 SteelSeries QcK Heavy Xtrfy K2-RGB Xtrfy H1 
-Windigo Calyx Rifler Zowie FK1 White Edition 1,000 800 1.30 1,040 1.00 0 6 1 BenQ XL2540 240 GTX 1080 Ti 1280x960 4:3 stretched Zowie G-SR DG Xtrfy K2-RGB White Edition HyperX Cloud II 
-Windigo hAdji Rifler Logitech G403 Wireless 1,000 400 2.00 800 1.00 0 6 1 BenQ XL2540 240 GTX 1080 Ti 1024x768 4:3 stretched Xtrfy XGP1-L4 HyperX Alloy FPS HyperX Cloud II 
-Windigo poizon AWPer Zowie EC2-A White Edition 1,000 400 1.90 760 1.00 0 6 1 BenQ XL2740 240 GTX 1080 Ti 1024xs768 4:3 black bars Zowie G-SR HyperX Alloy Elite Sennheiser GSP 600 
-OpTic MSL Rifler Zowie EC2-B Divina Edition 1,000 400 1.60 640 1.00 0 6 1 BenQ XL2546 240 GTX 1080 Ti 1024x768 4:3 black bars SteelSeries QcK Heavy SteelSeries APEX M750 TKL SteelSeries Arctis Pro 
-OpTic cajunb AWPer Zowie EC1 1,000 400 2.00 800 1.00 0 6 0 BenQ XL2546 240 GTX 1080 1280x800 16:10 black bars SteelSeries QcK Heavy HyperX Alloy FPS HyperX Cloud II 
+Liquid|Stewie2k|Rifler|Zowie ZA12|1,000|400|1.70|680|1.30|0|6|1|BenQ XL2546|240|GTX 1080 Ti|1280x960|4:3|stretched|SteelSeries QcK Edge|Logitech G813|HyperX Cloud II|
+Liquid|EliGE|Rifler|Logitech G Pro Wireless|1,000|1,600|0.74|1,184|0.80|0|6|1|Alienware AW2518H|240|GTX 1080 Ti|1680x1050|16:10|stretched|Zowie G-SR|HyperX Alloy FPS Pro|Sennheiser PC37X|
+Liquid|nitr0|AWPer|Zowie EC2|500|400|2.00|800|1.04|1|6|1|Alienware AW2518H|240|GTX 1080 Ti|1024x768|4:3|stretched|Zowie G-SR|MK Disco TKL|Alienware AW988|
+Liquid|NAF|Rifler|Zowie EC2-A White Edition|1,000|800|0.60|480|0.86|0|6|1|Alienware AW2518H|240|GTX 1080 Ti|1280x960|4:3|stretched|SteelSeries QcK Heavy|Razer BlackWidow X Chroma ME|Alienware AW988|
+Liquid|Twistzz|Rifler|Zowie EC2-B|1,000|400|1.50|600|1.20|0|6|1|BenQ XL2546|240|GTX 1080 Ti|1280x960|4:3|stretched|Zowie G-SR|Zowie Celeritas II|Sennheiser GSP 600|
+Astralis|Magisk|Rifler|Zowie EC2|1,000|800|1.00|800|1.18|0|6|1|OMEN X 27|240|GTX 1080|1024x768|4:3|black bars|Logitech G640|Logitech G Pro Mechanical Keyboard|Turtle Beach Elite Pro|
+Astralis|Xyp9x|Rifler|Zowie FK2|500|1,600|0.50|800|1.00|0|6|1|OMEN X 27|240|GTX 1080|1680x1050|16:10|black bars|Zowie G-SR Blue Edition|Logitech G Pro Mechanical Keyboard|Turtle Beach Elite Pro|
+Astralis|dev1ce / device|AWPer|Zowie EC2-B Divina Edition|1,000|400|2.00|800|1.10|0|6|1|OMEN X 27|240|GTX 1080|1280x960|4:3|stretched|Logitech G640|Logitech G Pro X Mechanical Keyboard|Turtle Beach Elite Pro|
+Astralis|dupreeh|Rifler|Zowie FK2|1,000|400|1.80|720|1.00|0|6|1|OMEN X 27|240|GTX 1080|1280x960|4:3|stretched|Zowie G-SR-SE Red Edition|Logitech G513|Turtle Beach Elite Pro|
+Astralis|gla1ve|Rifler|Zowie EC1-A|1,000|400|2.10|840|1.00|0|6|1|OMEN X 27|240|GTX 1080|1280x960|4:3|stretched|Logitech G640|Logitech G Pro Mechanical Keyboard|Turtle Beach Elite Pro|
+ENCE|allu|AWPer|Logitech G Pro Wireless|1,000|400|2.20|880|1.00|0|6|1|AOC AG251FZ|240|GTX 1080 Ti|1280x960|4:3|black bars|ASUS ENCE Edition|Logitech G Pro Mechanical Keyboard|ASUS ROG Delta|
+ENCE|suNny|Rifler|Zowie S2 Divina Edition|1,000|400|2.20|880|0.80|0|6|1|BenQ XL2546|240|GTX 1080 Ti|1024x768|4:3|black bars|Logitech G640|Logitech G Pro Mechanical Keyboard|Razer Kraken Pro V2|
+ENCE|sergej|Rifler|Logitech G Pro Wireless|1,000|400|1.90|760|1.00|0|6|1|AOC AG251FZ|240|GTX 1080 Ti|1440x1080|4:3|stretched|Logitech G640 ESL Edition|Logitech G Pro Mechanical Keyboard|Logitech G Pro X|
+ENCE|Aerial|Rifler|Zowie EC2-A|1,000|400|2.20|880|1.00|0|6|1|AOC AG251FZ|240|GTX 1080 Ti|1024x768|4:3|black bars|ASUS ENCE Edition|Logitech G513|SteelSeries Arctis 7 2019 Edition|
+ENCE (B)|Aleksib|Rifler|Logitech G Pro Wireless|1,000|800|0.95|760|0.95|0|6|1|AOC AG251FZ|240|GTX 1080 Ti|1440x1080|4:3|stretched|Logitech G640 ESL Edition|Logitech G513|Logitech G Pro X|
+ENCE|xseveN|Rifler|Endgame Gear XM1|1,000|400|2.15|860|1.00|0|6|1|AOC AG251FZ|240|GTX 1080 Ti|1024x768|4:3|black bars|ASUS ENCE Edition|Logitech G513|HyperX Cloud II|
+Vitality (B)|NBK|Rifler|Zowie S2 Divina Edition|1,000|800|1.10|880|1.05|0|6|1|AOC AG251FZ|240|GTX 1080 Ti|1280x800|16:10|stretched|2x Logitech G640|Razer BlackWidow Chroma TE V2|Logitech G Pro X|
+Vitality|apEX|Rifler|Logitech G402|1,000|400|1.91|764|1.00|0|6|1|AOC AG251FZ|240|GTX 1080 Ti|1024x768|4:3|stretched|Logitech G640|Razer BlackWidow Chroma TE V2|HyperX Cloud II|
+Vitality|shox|Rifler|Zowie FK1|1,000|400|2.25|900|1.00|0|6|1|AOC AG251FZ|240|GTX 1080 Ti|1024x768|4:3|black bars|SteelSeries QcK Heavy|SteelSeries APEX M750 TKL|Logitech G Pro X|
+Vitality|RpK|Rifler|Zowie S2 Divina Edition|500|400|1.85|740|1.00|0|6|1|BenQ XL2411Z|144|GTX 1080 Ti|1280x1024|5:4|stretched|Razer Gigantus|Razer Huntsman Elite|Razer Kraken TE|
+Vitality|ALEX|Rifler|Zowie EC1-A|1,000|400|2.00|800|1.05|0|6|1|BenQ XL2546|240|GTX 1070 Ti|1280x960|4:3|stretched|Zowie G-SR|Razer BlackWidow Elite|HyperX Cloud II|
+Vitality|ZywOo|AWPer|Zowie S2 Divina Edition|1,000|400|2.00|800|1.00|0|6|1|BenQ XL2546|240|GTX 1080 Ti|1280x960|4:3|stretched|Razer Goliathus Speed Cosmic|Xtrfy K2-RGB|HyperX Cloud II|
+FURIA|HEN1|AWPer|SteelSeries Rival 300|1,000|400|3.50|1,400|1.00|1|4|1|BenQ XL2546|240|GTX 1080|1280x960|4:3|black bars|SteelSeries QcK Heavy|Razer BlackWidow Chroma|HyperX Cloud II|
+FURIA|kscerato|Rifler|Zowie EC2-A|1,000|400|3.50|1,400|1.10|0|6|1|BenQ XL2546|240|GTX 1070 Ti|1024x768|4:3|stretched|Zowie G-SR-SE Brasil Edition|HyperX Alloy FPS RGB|HyperX Cloud Alpha Purple|
+FURIA|arT|AWPer|Zowie FK2|1,000|800|1.44|1,152|1.10|0|6|1|BenQ XL2546|240|GTX 1070|1280x960|4:3|stretched|HyperX FURY S Pro|HyperX Alloy FPS|HyperX Cloud Revolver|
+FURIA|yuurih|Rifler|Zowie EC1-B Divina Edition|1,000|400|2.20|880|1.00|0|6|1|BenQ XL2546|240|GTX 1070 Ti|1280x800|16:10|black bars|HyperX FURY S Pro|HyperX Alloy FPS|HyperX Cloud II|
+FURIA|VINI|Rifler|Logitech G Pro Wireless|1,000|1,600|1.00|1,600|1.00|0|6|1|BenQ XL2546|240|GTX 1070 Ti|1920x1080|16:9|Gigabyte Aorus AMP500|SteelSeries APEX M750 TKL|HyperX Cloud Flight|
+FaZe Clan|olofmeister|AWPer|SteelSeries Rival 300|1,000|400|1.70|680|1.20|0|6|1|BenQ XL2540|240|GTX 1080 Ti|1024x768|4:3|black bars|SteelSeries QcK Heavy|SteelSeries APEX M750|SteelSeries Arctis Pro White|
+FaZe Clan|rain|Rifler|Dream Machines DM2 Comfy|1,000|450|1.78|801|1.00|0|6|1|BenQ XL2540|240|GTX 1080 Ti|1280x800|16:10|stretched|SteelSeries QcK Heavy|SteelSeries Apex M500|SteelSeries Arctis Pro White|
+FaZe Clan|coldzera|Rifler|Zowie ZA12 White Edition|500|800|1.10|880|1.00|0|6|0|BenQ XL2546|240|GTX 1080 Ti|1280x960|4:3|stretched|Zowie G-SR DG|Razer BlackWidow X Chroma ME|Razer Kraken 7.1 V2 MW Edition|
+FaZe Clan|NiKo|Rifler|Zowie S2 Divina Edition|1,000|400|1.45|580|0.80|0|6|1|BenQ XL2540|240|GTX 1080 Ti|1024x768|4:3|stretched|SteelSeries QcK Heavy|Zowie Celeritas II|SteelSeries Arctis Pro White|
+FaZe Clan|broky|Rifler|Zowie S2|1,000|400|2.00|800|1.00|0|6|1|BenQ XL2540|240|GTX 1080 Ti|1280x960|4:3|stretched|Razer Goliathus Speed Cosmic|Logitech G Pro Mechanical Keyboard|SteelSeries Arctis Pro White|
+Fnatic|JW|AWPer|Zowie EC2|1,000|400|2.20|880|0.90|0|6|1|BenQ XL2540|240|RX Vega 64|1024x768|4:3|black bars|Fnatic Gear Focus Pro|Fnatic Gear MiniStreak|HyperX Cloud II|
+Fnatic|flusha|Rifler|Logitech G703 White Edition|1,000|400|1.70|680|0.87|0|6|1|BenQ XL2540|240|GTX 1080 Ti|1280x960|4:3|stretched|Fnatic Gear FOCUS 2|Fnatic Gear Streak|HyperX Cloud Alpha C9 Edition|
+Fnatic|KRiMZ|Rifler|Zowie EC2|1,000|400|1.40|560|1.00|0|6|1|BenQ XL2540|240|RX Vega 64|1920x1080|16:9|Fnatic Gear FOCUS 2|Fnatic Gear Streak|HyperX Cloud II|
+Fnatic (B)|Xizt|Rifler|Zowie EC2-B Divina Edition|1,000|400|3.00|1,200|1.00|0|6|0|BenQ XL2540|240|RX Vega 64|1024x768|4:3|black bars|Fnatic Gear FOCUS 2|Fnatic Gear MiniStreak|HyperX Cloud II|
+Fnatic|Golden|Rifler|Zowie EC2-A|1,000|400|2.00|800|1.00|0|6|1|BenQ XL2540|240|GTX 1080 Ti|1024x768|4:3|black bars|Fnatic Gear FOCUS 2|HyperX Alloy FPS|HyperX Cloud II|
+Fnatic|Brollan|Rifler|Zowie EC2-A White Edition|1,000|800|1.30|1,040|1.00|0|6|1|BenQ XL2540|240|RX Vega 64|1280x1024|5:4|stretched|Fnatic Gear Focus Pro|Fnatic Gear Streak|HyperX Cloud II|
+MIBR|FalleN|AWPer|Zowie EC1-A|1,000|400|1.80|720|1.40|0|6|1|BenQ XL2546|240|GTX 1080 Ti|1024x768|4:3|stretched|GFallen Pantera Extended|Razer BlackWidow X Chroma ME|Razer Kraken 7.1 V2 MW Edition|
+MIBR|fer|Rifler|SteelSeries Rival 300 White Edition|1,000|400|2.50|1,000|1.00|0|6|0|BenQ XL2546|240|GTX 1080 Ti|1152x864|4:3|stretched|Razer Gigantus MIBR Edition|Razer BlackWidow X Chroma ME|Razer Kraken 7.1 V2|
+MIBR|TACO|Rifler|Razer Viper Wireless|1,000|400|1.30|520|1.00|1|6|1|BenQ XL2546|240|GTX 1080 Ti|1152x864|4:3|stretched|Razer Gigantus MIBR Edition|Razer BlackWidow Chroma TE V2|Razer Kraken TE|
+MIBR|LUCAS1|Rifler|Logitech G Pro Wireless|1,000|400|2.50|1,000|1.00|0|6|1|BenQ XL2546|240|GTX 1080|1680x1050|16:10|black bars|Razer Gigantus|Razer BlackWidow X Chroma ME|Razer Kraken 7.1 V2 MW Edition|
+MIBR|kNg|AWPer|Logitech G Pro Wireless|1,000|400|2.50|1,000|0.90|0|6|1|BenQ XL2540|240|GTX 1080 Ti|1280x960|4:3|black bars|SteelSeries QcK Heavy|Razer BlackWidow X Chroma ME|Sennheiser GSP 600|
+NaVi|electronic|Rifler|Logitech G Pro Wireless|1,000|400|2.20|880|1.00|0|6|1|BenQ XL2540|240|GTX 1080|1024x768|4:3|black bars|HyperX FURY S Speed Edition|HyperX Alloy FPS RGB|HyperX Cloud II|
+NaVi|s1mple|AWPer|Logitech G Pro Wireless|1,000|400|3.09|1,236|1.00|0|6|1|BenQ XL2540|240|GTX 1080|1280x960|4:3|stretched|Zowie G-SR|HyperX Alloy FPS RGB|HyperX Cloud Alpha S|
+NaVi|flamie|Rifler|Zowie EC2-A Red Edition|1,000|400|1.80|720|1.00|0|6|1|BenQ XL2540|240|GTX 1080|1024x768|4:3|black bars|Zowie G-SR|HyperX Alloy FPS RGB|HyperX Cloud Alpha GE|
+NaVi|GuardiaN|AWPer|SteelSeries Kinzu V2|500|400|1.30|520|1.20|0|6|1|BenQ XL2540|240|GTX 1080 Ti|800x600|4:3|black bars|SteelSeries QcK+|HyperX Alloy FPS RGB|SteelSeries Arctis Pro White|
+NaVi (B)|Edward|Rifler|Zowie EC2-A|500|400|1.90|760|1.00|0|6|1|BenQ XL2540|240|GTX 1080|1280x960|4:3|stretched|SteelSeries QcK Heavy|HyperX Alloy FPS|HyperX Cloud Flight|
+NaVi|Boombl4|Rifler|Zowie EC1|1,000|400|1.42|568|1.00|0|6|1|BenQ XL2546|240|GTX 1080 Ti|1024x768|4:3|stretched|Zowie G-SR-SE Divina Blue Edition|HyperX Alloy Elite|HyperX Cloud II|
+EG|tarik|Rifler|Logitech MX518 Legendary|1,000|800|1.10|880|1.00|0|6|1|BenQ XL2546 Divina Blue Edition|240|RTX 2080 Ti|1024x768|4:3|stretched|Logitech G640|HyperX Alloy FPS Pro|Sennheiser GAME ZERO|
+EG|stanislaw|Rifler|Logitech G403 Wireless|1,000|400|2.50|1,000|1.00|0|6|1|BenQ XL2546|240|GTX 1080 Ti|1024x768|4:3|stretched|SteelSeries QcK Heavy|HyperX Alloy FPS|Sennheiser GAME ZERO|
+EG|Brehze|Rifler|Logitech MX518 Legendary|1,000|400|2.30|920|1.00|0|6|1|ASUS ROG Swift PG258Q|240|GTX 1080|1024x768|4:3|stretched|Logitech G640|Razer BlackWidow Chroma TE V2|Sennheiser GAME ZERO|
+EG|Ethan|Rifler|Logitech G Pro Wireless|1,000|400|1.80|720|0.77|0|6|1|BenQ XL2540|144|GTX 1080|1024x768|4:3|black bars|Xtrfy XG-GP1-L|Corsair K65 RGB|Sennheiser GAME ZERO|
+EG|CeRq|AWPer|Zowie EC2|1,000|400|2.20|880|0.70|0|6|1|BenQ XL2540|240|GTX 1080|1024x768|4:3|black bars|Zowie G-SR|Razer BlackWidow X Chroma ME|Sennheiser GAME ZERO|
+NiP|Lekr0|Rifler|QPAD DX-20|1,000|800|1.00|800|1.00|0|6|1|ASUS ROG Swift PG258Q|240|RTX 2080 Ti|1440x1080|4:3|stretched|Xtrfy GP2|Xtrfy K2-RGB|Xtrfy H1|
+NiP|twist|AWPer|Zowie FK1|1,000|400|2.00|800|1.00|0|6|1|BenQ XL2546|240|RTX 2080 Ti|1024x768|4:3|black bars|SteelSeries QcK Heavy|Razer BlackWidow Chroma TE V2|HyperX Cloud II|
+NiP|f0rest|Rifler|Zowie EC2-A|500|400|3.20|1,280|1.00|0|6|1|ASUS ROG Swift PG258Q|240|RTX 2080 Ti|1024x768|4:3|stretched|Xtrfy XTP1 f0rest Edition|Xtrfy K2-RGB|Xtrfy H1|
+NiP|REZ|Rifler|Logitech G Pro Wireless|1,000|400|2.30|920|0.80|0|6|1|ASUS ROG Swift PG258Q|240|RTX 2080 Ti|1280x960|4:3|stretched|Zowie G-SR|Xtrfy K2-RGB|Xtrfy H1|
+NiP|Plopski|Rifler|Zowie EC2-A|500|800|1.50|1,200|1.00|0|6|1|ASUS ROG Swift PG258Q|240|RTX 2080 Ti|1920x1080|16:9|Xtrfy XTP1 NiP Lightning Edition|Xtrfy K2-RGB|Xtrfy H1|
+North|aizy|AWPer|Zowie S2 Divina Edition|1,000|400|2.20|880|1.00|0|6|1|BenQ XL2546|240|GTX 1080 Ti|1024x768|4:3|stretched|Zowie G-SR|HyperX Alloy FPS|Sennheiser GSP 600|
+North|Kjaerbye|Rifler|Logitech G Pro Wireless|1,000|400|1.80|720|0.80|0|6|1|BenQ XL2546|240|GTX 1080 Ti|1440x900|16:10|black bars|Zowie G-SR|SteelSeries Apex M500|Sennheiser GSP 600|
+North|JUGi|AWPer|Zowie EC2-A|1,000|800|0.80|640|1.00|0|5|1|BenQ XL2546|240|GTX 1080|1024x768|4:3|black bars|Zowie G-SR|SteelSeries Apex M500|Sennheiser GSP 600|
+North|valde|Rifler|Zowie EC2-B Divina Edition|1,000|400|1.65|660|1.00|0|6|1|BenQ XL2546|240|GTX 1080 Ti|1280x960|4:3|stretched|Zowie G-SR-SE Red Edition|Xtrfy K2-RGB White Edition|Sennheiser GSP 600|
+North|gade|Rifler|Zowie EC1-B|1,000|400|2.20|880|1.00|0|6|1|BenQ XL2546|240|GTX 1080 Ti|1280x960|4:3|stretched|Zowie G-SR|Zowie Celeritas II|Sennheiser GSP 600|
+G2|kennyS|AWPer|Logitech MX518 Legendary|500|400|2.20|880|1.00|0|6|1|AOC AG251FZ|240|GTX 1080 Ti|1024x768|4:3|black bars|Flicks kennyS|Logitech G512|Logitech G Pro X|
+G2|nexa|Rifler|Logitech G703|1,000|800|1.22|976|1.00|0|6|1|BenQ XL2546|240|GTX 1070|1280x960|4:3|stretched|Logitech G640|Xtrfy K2-RGB White Edition|HyperX Cloud I|
+G2|AmaNEk|Rifler|Logitech G Pro Wireless|1,000|800|2.20|1,760|1.00|0|6|1|BenQ XL2546|240|GTX 1070 Ti|1440x1080|4:3|stretched|Logitech G640|Logitech G413|Logitech G Pro X|
+G2|JACKZ|Rifler|Logitech MX518 Legendary|1,000|400|1.66|664|1.00|0|6|1|BenQ XL2546|240|GTX 1080 Ti|1024x768|4:3|stretched|Zowie G-SR|Logitech G513|Logitech G Pro X|
+G2|huNter|Rifler|Zowie EC2-B Divina Edition|1,000|400|2.00|800|1.00|0|6|1|BenQ XL2546|240|GTX 1080|1024x768|4:3|stretched|Zowie G-SR-SE Divina Pink Edition|Xtrfy K2-RGB White Edition|HyperX Cloud Revolver S|
+Mouz|karrigan|Rifler|Logitech G703|1,000|400|1.40|560|1.00|1|4|1|BenQ XL2540|240|GTX 1080 Ti|1600x1024|16:10|stretched|Razer Gigantus Team Razer Edition|Razer BlackWidow Chroma TE V2|Razer Kraken Pro V2|
+Mouz|chrisJ|Rifler|Dream Machines DM2 Comfy|1,000|800|1.19|952|1.00|0|6|1|BenQ XL2546|240|GTX 1080 Ti|1280x1024|5:4|stretched|Razer Gigantus Team Razer Edition|Razer BlackWidow X Chroma ME|Razer Kraken Pro V2|
+Mouz|ropz|Rifler|Zowie EC2-A|1,000|400|1.77|708|1.00|0|6|1|BenQ XL2546|240|RTX 2080|1920x1080|16:9|Razer Gigantus Team Razer Edition|Razer BlackWidow X Chroma|Razer Kraken Pro V2|
+Mouz|woxic|AWPer|SteelSeries Sensei Raw|1,000|1,620|1.50|2,430|1.00|0|6|1|BenQ XL2540|240|GTX 1080 Ti|1280x960|4:3|stretched|Razer Gigantus Team Razer Edition|Razer BlackWidow Chroma TE V2|Razer Kraken TE|
+Mouz|Frozen|Rifler|Razer DeathAdder Elite|1,000|400|2.00|800|0.90|0|6|1|BenQ XL2546|240|RTX 2080 Ti|1024x768|4:3|black bars|Razer Gigantus|Razer BlackWidow Chroma TE V2|Razer Kraken Pro V2|
+RNG|AZR|Rifler|Logitech G Pro Wireless|1,000|400|2.40|960|1.00|0|5|1|BenQ XL2546|240|GTX 1080 Ti|1024x768|4:3|black bars|SteelSeries QcK Heavy|HyperX Alloy FPS|HyperX Cloud II|
+RNG|jks|Rifler|Zowie EC1-A|1,000|400|1.70|680|1.00|0|6|1|Alienware AW2518H|240|GTX 1080 Ti|1024x768|4:3|Black bars|Zowie G-SR|HyperX Alloy FPS|HyperX Cloud II|
+RNG|jkaem|Rifler|Zowie EC2-A|1,000|400|1.60|640|1.00|0|5|1|BenQ XL2546|240|GTX 1080 Ti|1024x768|4:3|stretched|SteelSeries QcK Heavy|HyperX Alloy FPS|HyperX Cloud II|
+RNG|Liazz|Rifler|Zowie EC2-B|500|800|1.04|832|1.00|0|6|1|BenQ XL2546|240|GTX 1080 Ti|1280x960|4:3|stretched|Zowie G-SR|HyperX Alloy FPS Pro|HyperX Cloud II|
+RNG|Gratisfaction|AWPer|Zowie EC2-B Divina Edition|1,000|800|1.19|952|1.00|0|6|1|BenQ XL2546|240|GTX 1080 Ti|1920x1080|16:9|Razer Goliathus Control|HyperX Alloy FPS|HyperX Cloud II|
+Avangar|AdreN|Rifler|Zowie ZA13|1,000|400|1.55|620|0.85|0|6|1|BenQ XL2540|240|GTX 1080 Ti|1024x768|4:3|stretched|SteelSeries QcK Heavy|Xtrfy K2-RGB|SteelSeries Arctis 7 2019 Edition|
+Avangar|Buster|Rifler|Zowie ZA12|1,000|400|2.20|880|1.00|0|6|1|BenQ XL2540|240|GTX 1080 Ti|1280x960|4:3|stretched|Zowie G-SR|Razer BlackWidow X Chroma ME|HyperX Cloud Revolver S|
+Avangar|Jame|AWPer|Zowie EC2-A|500|1,600|0.63|1,008|1.00|0|6|1|BenQ XL2540|240|GTX 960|1024x768|4:3|black bars|Zowie G-SR|Razer BlackWidow X Chroma ME|HyperX Cloud II|
+Avangar|qikert|Rifler|Zowie EC2-A|1,000|400|2.00|800|1.00|0|6|1|BenQ XL2540|240|GTX 1080|1280x960|4:3|stretched|Zowie G-SR|SteelSeries Apex M500|HyperX Cloud Alpha|
+Avangar|SANJI|Rifler|Logitech G Pro Wireless|1,000|400|1.22|488|1.00|0|6|1|BenQ XL2540|240|GTX 1080|1280x768|16:10|black bars|SteelSeries QcK Heavy|HyperX Alloy FPS|HyperX Cloud II|
+CR4ZY|EspiranTo|Rifler|Logitech G403 HERO|1,000|400|2.60|1,040|1.15|0|6|1|BenQ XL2540|240|GTX 1060|1024x768|4:3|stretched|Logitech G640|Zowie Celeritas II|Xtrfy H1|
+CR4ZY|ottoNd|AWPer|Zowie EC2-A|500|400|1.77|708|1.00|0|6|1|BenQ XL2540|240|GTX 1070|1152x864|4:3|stretched|Zowie G-SR-SE Divina Blue Edition|Logitech G513|Sennheiser PC350|
+CR4ZY|LETN1|Rifler|Zowie EC2-B|500|400|1.65|660|1.00|0|6|1|BenQ XL2540|240|GTX 970|1024x768|4:3|stretched|Zowie G-SR-SE Divina Blue Edition|Xtrfy K2-RGB|HyperX Cloud II|
+CR4ZY|SHiPZ|Rifler|Zowie EC2-B Divina Edition|1,000|400|2.40|960|1.00|0|6|0|BenQ XL2546|240|GTX 1080|1024x768|4:3|stretched|Zowie G-SR DG|HyperX Alloy FPS Pro|Sennheiser GAME ZERO|
+Grayhound|DickStacy|Rifler|XTRFY M2|1,000|800|1.50|1,200|1.00|0|6|1|BenQ XL2540|240|GTX 1080|1280x960|4:3|stretched|Zowie G-SR|Xtrfy K2-RGB|HyperX Cloud II|
+Grayhound|dexter|Rifler|Zowie ZA12|1,000|1,600|0.65|1,040|1.00|0|6|1|ASUS ROG Swift XG258Q|240|GTX 1070|1280x960|4:3|stretched|Xtrfy GP2|Xtrfy K2-RGB|HyperX Cloud Alpha|
+Grayhound|malta|Rifler|Zowie EC2-B Divina Edition|1,000|400|2.00|800|1.00|0|5|1|BenQ XL2540|240|GTX 1080|1440x1080|4:3|stretched|Zowie G-SR|Xtrfy K2-RGB|HyperX Cloud II|
+Grayhound|Sico|AWPer|Zowie EC2-B|1,000|0|0.00|0|1.00|0|6|1|BenQ XL2540|240|GTX 1080|1024x768|4:3|black bars|Xtrfy GP1 Grayhound Edition|Xtrfy K2-RGB|Xtrfy H1|
+Grayhound|INS|Rifler|Logitech G403|1,000|800|1.20|960|1.00|0|6|1|BenQ XL2546|240|1280x960|4:3|stretched|Logitech G240|Logitech RGB G810|Logitech G430|
+Windigo|bubble|AWPer|Zowie EC2-A White Edition|1,000|400|1.75|700|1.00|0|6|1|BenQ XL2430T|144|GTX 960|1920x1080|16:9|SteelSeries QcK Heavy|Xtrfy K2-RGB|Xtrfy H1|
+Windigo|Calyx|Rifler|Zowie FK1 White Edition|1,000|800|1.30|1,040|1.00|0|6|1|BenQ XL2540|240|GTX 1080 Ti|1280x960|4:3|stretched|Zowie G-SR DG|Xtrfy K2-RGB White Edition|HyperX Cloud II|
+Windigo|hAdji|Rifler|Logitech G403 Wireless|1,000|400|2.00|800|1.00|0|6|1|BenQ XL2540|240|GTX 1080 Ti|1024x768|4:3|stretched|Xtrfy XGP1-L4|HyperX Alloy FPS|HyperX Cloud II|
+Windigo|poizon|AWPer|Zowie EC2-A White Edition|1,000|400|1.90|760|1.00|0|6|1|BenQ XL2740|240|GTX 1080 Ti|1024xs768|4:3|black bars|Zowie G-SR|HyperX Alloy Elite|Sennheiser GSP 600|
+OpTic|MSL|Rifler|Zowie EC2-B Divina Edition|1,000|400|1.60|640|1.00|0|6|1|BenQ XL2546|240|GTX 1080 Ti|1024x768|4:3|black bars|SteelSeries QcK Heavy|SteelSeries APEX M750 TKL|SteelSeries Arctis Pro|
+OpTic|cajunb|AWPer|Zowie EC1|1,000|400|2.00|800|1.00|0|6|0|BenQ XL2546|240|GTX 1080|1280x800|16:10|black bars|SteelSeries QcK Heavy|HyperX Alloy FPS|HyperX Cloud II|
+OpTic|k0nfig|Rifler|Logitech G Pro Wireless|1,000|400|2.20|880|1.00|0|6|1|BenQ XL2546|240|GTX 1080|1024x768|4:3|black bars|SteelSeries QcK Heavy|HyperX Alloy FPS|Turtle Beach Elite Atlas Pro|
