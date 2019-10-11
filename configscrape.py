@@ -22,7 +22,11 @@ print("Commands:")
 print("U = update/create local file from prosettings.net")
 print("S = search from local file")
 
-if input("Enter command: ") == 'U':
+mode = input("Enter command: ")
+
+if mode == 'U':
+    file1.close()
+    file1 = open("proconfig.txt", "w")
     options = Options()
     options.headless = True
     browser = webdriver.Firefox(options=options)
@@ -57,8 +61,7 @@ if input("Enter command: ") == 'U':
 
     file1.close()
 
-else:
-    if input("Enter command: ") == 'S':
+elif mode == 'S':
         for line in file1:
             largelist.append(line)
         
