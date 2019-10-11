@@ -116,12 +116,12 @@ while mode != "exit":
         file2.close()
 
         searchPlayer = input("Type search terms\n[B] to go back\n")
-        searchPlayer = searchPlayer.split()
+        searchPlayer = searchPlayer.split(",")
         first = False
         while searchPlayer[0] != "B":
             if first == True:        
                 searchPlayer = input("Type search terms\n[B] to go back\n")
-                searchPlayer = searchPlayer.split()
+                searchPlayer = searchPlayer.split(",")
             printList = []
             if searchPlayer[0] == "B":
                 break
@@ -131,10 +131,10 @@ while mode != "exit":
                 if player.findSimilar(searchPlayer) == True:
                     printList.append(player)
             if len(printList) > 0:
-                print("Found " + str(len(printList)) + " player(s)")
+                print("Found " + str(len(printList)) + " player(s)\n")
                 for player in printList:
                     player.printConfig()
-                    #print("\n")
+                    print("\n")
             if len(printList) <= 0:
                 print("Players not found") 
             first = True     
