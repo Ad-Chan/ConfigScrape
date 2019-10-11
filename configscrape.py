@@ -12,7 +12,7 @@ largelist = []
 players = []
 
 if path.exists("proconfig.txt"):
-    print("Local file found!")
+    #print("Local file found!")
     file1 = open("proconfig.txt", "r")
 else:
     print("Local file not found! Please create a new file before searching!")
@@ -20,8 +20,8 @@ else:
 
 print("Welcome to Stosh's CSGO pro config program!")
 print("Commands:")
-print("U = update/create local file from prosettings.net")
-print("S = search from local file")
+print("[U] = update/create local file from prosettings.net")
+print("[S] = search from local file")
 
 mode = input("Enter command: ")
 firstmain = False
@@ -59,6 +59,7 @@ while mode != "exit":
             for j in i:
                 if j == "":
                     i.remove(j)
+            #i.pop()
 
         #fullText.pop(0)
         fullText.pop(-1)
@@ -98,6 +99,8 @@ while mode != "exit":
         file1.close()
 
     elif mode == 'S':
+        largelist.clear()
+        players.clear()
         file2 = open("proconfig.txt", "r")
         for line in file2:
             largelist.append(line)
@@ -120,7 +123,8 @@ while mode != "exit":
                 searchPlayer = input("Type search terms\n[B] to go back\n")
                 searchPlayer = searchPlayer.split()
             printList = []
-
+            if searchPlayer[0] == "B":
+                break
             #searchTerm = input("Type a search term(s):\n")
             #searchTerm = searchTerm.split()
             for player in players:

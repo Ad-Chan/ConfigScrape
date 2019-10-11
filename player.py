@@ -36,6 +36,7 @@ class Player:
         return False
 
     def printConfig(self):
+        #print(self.config)
         output = "["
         output += self.team
         output += "] ["
@@ -45,7 +46,7 @@ class Player:
         output += "] "
         for i in self.config:
             output += "["
-            output += i
+            output += i.rstrip('\n')
             output += "] "
         print(output)
     
@@ -57,6 +58,8 @@ class Player:
         self.config.remove(self.team)
         self.config.remove(self.name)
         self.config.remove(self.role)
+        for i in self.config:
+            i.rstrip('\n')
         #print(self.team + self.name + self.role)
 
     def returnConfig(self):
@@ -67,9 +70,12 @@ class Player:
         output += "|"
         output += self.role
         output += "|"
+        count = 0
         for i in self.config:
             output += i
-            output += "|"
+            if count != len(self.config) - 1:
+                output += "|"
+            count = count + 1
         return output
 
     def checkPlayer(self):
