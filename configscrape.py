@@ -23,46 +23,50 @@ print("U = update/create local file from prosettings.net")
 print("S = search from local file")
 
 mode = input("Enter command: ")
+firstmain = False
+while mode != "exit":
+    if firstmain == True:
+        mode = input("Enter command: ")
+    if mode == 'U':
+        file1.close()
+        file1 = open("proconfig.txt", "w")
+        options = Options()
+        options.headless = True
+        browser = webdriver.Firefox(options=options)
+        browser.get("https://prosettings.net/cs-go-pro-settings-gear-list/")
+        print("Opening headless browser...")
+        browser.refresh()
+        nav = browser.find_element_by_tag_name("tbody")
 
-if mode == 'U':
-    file1.close()
-    file1 = open("proconfig.txt", "w")
-    options = Options()
-    options.headless = True
-    browser = webdriver.Firefox(options=options)
-    browser.get("https://prosettings.net/cs-go-pro-settings-gear-list/")
-    print("Opening headless browser...")
-    browser.refresh()
-    nav = browser.find_element_by_tag_name("tbody")
+        tempString = ""
+        print("Processing data...")
+        for line in nav.text:
+            if line != '\n':
+                tempString += line
+            else:
+                largelist.append(tempString) 
+                #print(tempString)           
+                tempString = ""
+        for text in largelist:
+            temptext = text.split()
+            newPlayer = Player()
+            for i in temptext:
+                newPlayer.addToConfig(i)
+            newPlayer.setInfo()
+            newPlayer.removeFromConfig("Config")
+            players.append(newPlayer)
 
-    tempString = ""
-    print("Processing data...")
-    for line in nav.text:
-        if line != '\n':
-            tempString += line
-        else:
-            largelist.append(tempString) 
-            #print(tempString)           
-            tempString = ""
-    for text in largelist:
-        temptext = text.split()
-        newPlayer = Player()
-        for i in temptext:
-            newPlayer.addToConfig(i)
-        newPlayer.setInfo()
-        newPlayer.removeFromConfig("Config")
-        players.append(newPlayer)
+        print("Printing configs")
+        for player in players:
+            player.printConfig()
+            file1.write(player.returnConfig())
+            file1.write("\n")
 
-    print("Printing configs")
-    for player in players:
-        player.printConfig()
-        file1.write(player.returnConfig())
-        file1.write("\n")
+        file1.close()
 
-    file1.close()
-
-elif mode == 'S':
-        for line in file1:
+    elif mode == 'S':
+        file2 = open("proconfig.txt", "r")
+        for line in file2:
             largelist.append(line)
         
         for text in largelist:
@@ -73,44 +77,66 @@ elif mode == 'S':
             newPlayer.setInfo()
             newPlayer.removeFromConfig("Config")
             players.append(newPlayer)
-        file1.close()
+        file2.close()
 
-        searchPlayer = input("Please type T for team search, N for name search, R for role search\n")
-        printList = []
-        if searchPlayer == 'T':
-            team = input("Type the name of the team\n")
-            for player in players:
-                if player.getTeam().lower() == team.lower():
-                    printList.append(player)
-            if len(printList) > 0:
-                print("Found player(s)")
-                for player in printList:
-                    player.printConfig()
-            if len(printList) <= 0:
-                print("Players not found")
+        searchPlayer = input("[G] for general search\n[T] for team search\n[N] for name search\n[R] for role search\n[B] to go back\n")
+        first = False
+        while searchPlayer != "B":
+            if first == True:        
+                searchPlayer = input("[G] for general search\n[T] for team search\n[N] for name search\n[R] for role search\n[B] to go back\n")
 
-        if searchPlayer == 'N':
-            name = input("Type the name of the player\n")
-            for player in players:
-                if player.getName().lower() == name.lower():
-                    printList.append(player)
-            if len(printList) > 0:
-                print("Found player(s)")
-                for player in printList:
-                    player.printConfig()
-            if len(printList) <= 0:
-                print("Players not found")  
-              
-        if searchPlayer == 'R':
-            role = input("Type the name of the role (AWPer/rifler)\n")
-            for player in players:
-                if player.getRole().lower() == role.lower():
-                    printList.append(player)
-            if len(printList) > 0:
-                print("Found player(s)")
-                for player in printList:
-                    player.printConfig()
-            if len(printList) <= 0:
-                print("Players not found")        
+            printList = []
+            if searchPlayer == 'G':
+                searchTerm = input("Type a search term:\n")
+                for player in players:
+                    if player.findSimilar(searchTerm) == True:
+                        printList.append(player)
+                if len(printList) > 0:
+                    print("Found player(s)")
+                    for player in printList:
+                        player.printConfig()
+                        print("\n")
+                if len(printList) <= 0:
+                    print("Players not found")
+            elif searchPlayer == 'T':
+                team = input("Type the name of the team:\n")
+                for player in players:
+                    if  team.lower() in player.getTeam().lower():
+                        printList.append(player)
+                if len(printList) > 0:
+                    print("Found player(s)")
+                    for player in printList:
+                        player.printConfig()
+                        print("\n")
+                if len(printList) <= 0:
+                    print("Players not found")
+
+            elif searchPlayer == 'N':
+                name = input("Type the name of the player:\n")
+                for player in players:
+                    if name.lower() in player.getName().lower():
+                        printList.append(player)
+                if len(printList) > 0:
+                    print("Found player(s)")
+                    for player in printList:
+                        player.printConfig()
+                        print("\n")
+                if len(printList) <= 0:
+                    print("Players not found")  
+                  
+            elif searchPlayer == 'R':
+                role = input("Type the name of the role (AWPer/rifler):\n")
+                for player in players:
+                    if role.lower() in player.getRole().lower():
+                        printList.append(player)
+                if len(printList) > 0:
+                    print("Found player(s)")
+                    for player in printList:
+                        player.printConfig()
+                        print("\n")
+                if len(printList) <= 0:
+                    print("Players not found")   
+            first = True     
+    firstmain = True
 
 

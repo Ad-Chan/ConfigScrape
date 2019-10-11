@@ -26,6 +26,14 @@ class Player:
             if i == text:
                 self.config.remove(i)
 
+    def findSimilar(self, text):
+        if text.lower() in self.name.lower() or text.lower() in self.role.lower() or text.lower() in self.team.lower():
+            return True 
+        for i in self.config:
+            if text.lower() in i.lower():
+                return True
+        return False
+
     def printConfig(self):
         output = ""
         output += self.team
