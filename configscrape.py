@@ -80,14 +80,16 @@ while mode != "exit":
         file2.close()
 
         searchPlayer = input("[G] for general search\n[T] for team search\n[N] for name search\n[R] for role search\n[B] to go back\n")
+        searchPlayer = searchPlayer.split()
         first = False
-        while searchPlayer != "B":
+        while searchPlayer[0] != "B":
             if first == True:        
                 searchPlayer = input("[G] for general search\n[T] for team search\n[N] for name search\n[R] for role search\n[B] to go back\n")
-
+                searchPlayer = searchPlayer.split()
             printList = []
-            if searchPlayer == 'G':
-                searchTerm = input("Type a search term:\n")
+            if searchPlayer[0] == 'G':
+                searchTerm = input("Type a search term(s):\n")
+                searchTerm = searchTerm.split()
                 for player in players:
                     if player.findSimilar(searchTerm) == True:
                         printList.append(player)
@@ -98,11 +100,13 @@ while mode != "exit":
                         print("\n")
                 if len(printList) <= 0:
                     print("Players not found")
-            elif searchPlayer == 'T':
-                team = input("Type the name of the team:\n")
+            elif searchPlayer[0] == 'T':
+                team = input("Type the name of the team(s):\n")
+                team = team.split()
                 for player in players:
-                    if  team.lower() in player.getTeam().lower():
-                        printList.append(player)
+                    for singleTeam in team:
+                        if  singleTeam.lower() in player.getTeam().lower():
+                            printList.append(player)
                 if len(printList) > 0:
                     print("Found player(s)")
                     for player in printList:
@@ -111,11 +115,13 @@ while mode != "exit":
                 if len(printList) <= 0:
                     print("Players not found")
 
-            elif searchPlayer == 'N':
-                name = input("Type the name of the player:\n")
+            elif searchPlayer[0] == 'N':
+                name = input("Type the name of the player(s):\n")
+                name = name.split()
                 for player in players:
-                    if name.lower() in player.getName().lower():
-                        printList.append(player)
+                    for singleName in name:
+                        if singleName.lower() in player.getName().lower():
+                            printList.append(player)
                 if len(printList) > 0:
                     print("Found player(s)")
                     for player in printList:
@@ -124,11 +130,13 @@ while mode != "exit":
                 if len(printList) <= 0:
                     print("Players not found")  
                   
-            elif searchPlayer == 'R':
-                role = input("Type the name of the role (AWPer/rifler):\n")
+            elif searchPlayer[0] == 'R':
+                role = input("Type the name of the role(s) (AWPer/rifler):\n")
+                role = role.split()
                 for player in players:
-                    if role.lower() in player.getRole().lower():
-                        printList.append(player)
+                    for singleRole in role:
+                        if singleRole.lower() in player.getRole().lower():
+                            printList.append(player)
                 if len(printList) > 0:
                     print("Found player(s)")
                     for player in printList:

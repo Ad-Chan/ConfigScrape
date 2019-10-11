@@ -27,11 +27,12 @@ class Player:
                 self.config.remove(i)
 
     def findSimilar(self, text):
-        if text.lower() in self.name.lower() or text.lower() in self.role.lower() or text.lower() in self.team.lower():
-            return True 
-        for i in self.config:
-            if text.lower() in i.lower():
-                return True
+        for j in text:
+            if j.lower() in self.name.lower() or j.lower() in self.role.lower() or j.lower() in self.team.lower():
+                return True 
+            for i in self.config:
+                if j.lower() in i.lower():
+                    return True
         return False
 
     def printConfig(self):
